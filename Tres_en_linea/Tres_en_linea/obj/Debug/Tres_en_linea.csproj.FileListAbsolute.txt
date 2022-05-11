@@ -1,0 +1,13 @@
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\bin\Debug\Tres_en_linea.exe.config
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\bin\Debug\Tres_en_linea.exe
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\bin\Debug\Tres_en_linea.pdb
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.csproj.AssemblyReference.cache
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.Form1.resources
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.Properties.Resources.resources
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.csproj.GenerateResource.cache
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.csproj.CoreCompileInputs.cache
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.exe
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.pdb
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.Form2.resources
+C:\Users\Rey\Documents\Visual Studio 2022\proyectos\Tres_en_linea\Tres_en_linea\obj\Debug\Tres_en_linea.Form3.resources
