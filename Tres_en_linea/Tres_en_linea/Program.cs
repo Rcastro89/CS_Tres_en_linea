@@ -29,9 +29,7 @@ namespace Tres_en_linea
 
         public string TurnoActual = "X";
         public string ValidarGanador = "";
-        private int CantidadJugadores;
-        private string Dificultad;
-        private Dictionary<string, int> Puntos = new Dictionary<string, int>() {
+        public Dictionary<string, int> Puntos = new Dictionary<string, int>() {
             {"Empate", 0}
         };
 
@@ -127,7 +125,6 @@ namespace Tres_en_linea
             else if (validar == "E")
                 ganador.Text = "Nadie Gana";
         }
-
         static void Main()
         {
             Application.EnableVisualStyles();
@@ -136,5 +133,4 @@ namespace Tres_en_linea
             
         }
     }
-
 }

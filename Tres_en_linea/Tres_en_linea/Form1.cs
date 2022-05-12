@@ -32,7 +32,12 @@ namespace Tres_en_linea
             if (programa.ValidarGanador != "SG")
             {
                 programa.Victoria(programa.ValidarGanador, this.label1, this.Nombre1, this.Nombre2);
-                DialogResult resultado;
+                if (programa.ValidarGanador.Equals("X"))
+                {
+                    programa.Puntos[this.Nombre1] = programa.Puntos[this.Nombre1] + 1;
+                    this.label5.Text = Convert.ToString(programa.Puntos[this.Nombre1]);
+                }
+                /*DialogResult resultado;
                 resultado = MessageBox.Show(this, "Gano x jugador", "Fin del juego", MessageBoxButtons.YesNo);
                 if (resultado == DialogResult.Yes)
                 {
@@ -43,11 +48,8 @@ namespace Tres_en_linea
                 else
                 {
                     this.Close();
-                    
-                }
+                }*/
             }
-                
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -146,10 +148,5 @@ namespace Tres_en_linea
             label2.Text = this.Nombre1 + ": X";
             label3.Text = "O: " + this.Nombre2;
         }
-
-        /*private void Form1_Close(object sender, FormClosingEventArgs e)
-        {
-            Form2.ActiveForm;
-        }*/
     }
 }
